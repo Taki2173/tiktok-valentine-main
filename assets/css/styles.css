@@ -8,6 +8,7 @@
 body {
     background: url('/assets/fotos/fondo-corazones-aadf79cd.jpg');
     background-position: center;
+    background-size: cover;
     min-height: 100vh;
     display: flex;
     justify-content: center;
