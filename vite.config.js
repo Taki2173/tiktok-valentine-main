@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: './', // Rutas relativas para los archivos estáticos
+  base: './', // Esto asegura que las rutas sean relativas en producción
 });
