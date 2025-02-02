@@ -1,0 +1,23 @@
+{
+  "name": "tiktok-valentine-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taki2173/tiktok-valentine-main-1-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Taki2173/tiktok-valentine-main-1-/issues"
+  },
+  "homepage": "https://github.com/Taki2173/tiktok-valentine-main-1-#readme",
+  "description": ""
+}
