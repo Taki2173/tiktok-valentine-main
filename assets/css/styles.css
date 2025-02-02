@@ -6,7 +6,7 @@
 }
 
 body{
-    background: url('/assets/fotos/fondo-corazones.jpg');
+    background: url('./assets/fotos/fondo-corazones.jpg'); /* Ruta corregida */
     background-position: center;
     min-height: 100vh;
     display: flex;
@@ -21,16 +21,13 @@ body{
     font-family: 'Sacramento', cursive;
     text-align: center;
     font-size: 1.8em;
-   
 }
 
 .random-pics{
     margin: 0 auto;
     width: 350px;
     height: 350px;
-    
 }
-
 
 .random-pics img{
     max-width: 350px;
@@ -50,7 +47,7 @@ body{
 .botones__btn-si, .botones__btn-no{
     width: auto;
     font-family: 'Roboto', sans-serif;
-    font-weight:  900;
+    font-weight: 900;
     font-size: 16px;
     border-style: none;
     border-radius: 5px;
@@ -83,18 +80,6 @@ body{
     font-size: 28px ;
     width: 90px;
     height: 90px;
-}
-
-.estilo-1{
-    font-size: 22px ;
-    width: 70px;
-    height: 70px;
-}
-
-.estilo-2{
-    font-size: 28px ;
-    width: 80px;
-    height: 80px;
 }
 
 .estilo-3{
