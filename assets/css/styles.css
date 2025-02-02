@@ -5,8 +5,8 @@
     user-select: none;
 }
 
-body{
-    background: url('./assets/fotos/fondo-corazones.jpg'); /* Ruta corregida */
+body {
+    background: url('./fondo-corazones-aadf79cd.jpg');
     background-position: center;
     min-height: 100vh;
     display: flex;
