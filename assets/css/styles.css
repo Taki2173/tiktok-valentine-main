@@ -6,15 +6,14 @@
 }
 
 body {
-    background: url('/assets/fotos/fondo-corazones-aadf79cd.jpg');
+    background: linear-gradient(135deg, #ff9a9e, #fad0c4); /* Fondo degradado */
     background-position: center;
     background-size: cover;
     min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
+  }
 .valentine-app{
     max-width: 560px;
     min-width: 360px;

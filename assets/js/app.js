@@ -4,12 +4,12 @@ const randomPic = document.querySelector('.random-pics__cats');
 const question = document.querySelector('.question');
 
 // Ruta corregida para el archivo de música
-const musica = new Audio('./assets/musica/Manu Chao - Me gustas tu.mp3');
+const musica = new Audio('/musica/Manu Chao - Me gustas tu.mp3');
 
 // Si acepta: 
 btnSi.addEventListener('click', () => {
     // Ruta corregida para la imagen
-    randomPic.src = './assets/fotos/0.jpg';
+    randomPic.src = './assets/fotos/2.jpg';
     question.innerText = ' Uwu!!!!! :3 ';
     question.classList.add('question-style');
 
