@@ -10,7 +10,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {},
+  "devDependencies": {
+    "vite": "^4.5.9"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Taki2173/tiktok-valentine-main-1-.git"
